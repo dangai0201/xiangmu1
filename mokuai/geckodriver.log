@@ -1,0 +1,1070 @@
+1549602558852	geckodriver	INFO	Listening on 127.0.0.1:50928
+1549602559860	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.bZpvQ9RY2cjH
+1549602559866	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549602559873	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50938
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549602720737	geckodriver	INFO	Listening on 127.0.0.1:51124
+1549602721747	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.a0r5xrwTLVFt
+1549602721753	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549602721760	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51131
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549602933613	geckodriver	INFO	Listening on 127.0.0.1:51441
+1549602934622	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.FYVUOMKLta0o
+1549602934625	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549602934632	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51448
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549602938198, line 1: TypeError: jsonp is not a function
+1549603493728	geckodriver	INFO	Listening on 127.0.0.1:52039
+1549603494742	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.OBm1rEksp638
+1549603494747	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549603494755	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52046
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.yhd.com/front-passport/passport/js/framework/common_yhd.js, line 6: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1549603505863 Marionette: Element is missing an accesible name -> id: un, tagName: INPUT, className: ipt ipt_username gay_text
+1549603505945 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: pwd, tagName: INPUT, className: ipt ipt_password gay_text
+1549603537345	geckodriver	INFO	Listening on 127.0.0.1:52149
+1549603538360	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.xF6DM4frXGvX
+1549603538362	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549603538368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52156
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549603817127	geckodriver	INFO	Listening on 127.0.0.1:52345
+1549603818140	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.a223wwY6JdLR
+1549603818145	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549603818152	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52352
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549603882891	geckodriver	INFO	Listening on 127.0.0.1:52559
+1549603883904	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.7gn8z1vsbO15
+1549603883909	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549603883916	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52566
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604122449	geckodriver	INFO	Listening on 127.0.0.1:52776
+1549604123460	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.uMHmNdngUWr9
+1549604123465	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604123472	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52783
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604280058	geckodriver	INFO	Listening on 127.0.0.1:53260
+1549604281073	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.aXLmiyqv6QWJ
+1549604281078	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604281087	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53267
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604392027	geckodriver	INFO	Listening on 127.0.0.1:53756
+1549604393037	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.ytnFbylKoH3T
+1549604393039	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604393045	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53767
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604411778 Marionette: Element does not have an accessible object -> id: , tagName: I, className: icon iconfont
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549604441639	geckodriver	INFO	Listening on 127.0.0.1:54191
+1549604442651	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.vrq060zBESHP
+1549604442655	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604442662	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54198
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604459026 Marionette: Element does not have an accessible object -> id: , tagName: I, className: icon iconfont
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549604639202	geckodriver	INFO	Listening on 127.0.0.1:54749
+1549604640218	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.byWzg8IVlzEC
+1549604640223	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604640229	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54756
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604755433	geckodriver	INFO	Listening on 127.0.0.1:54984
+1549604756444	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.3H07IhFkYubQ
+1549604756449	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604756458	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54991
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604883194	geckodriver	INFO	Listening on 127.0.0.1:55233
+1549604884213	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.MX9JsXNhVc2M
+1549604884223	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604884230	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55240
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604900159 Marionette: Element does not have an accessible object -> id: , tagName: I, className: icon iconfont
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549604924935	geckodriver	INFO	Listening on 127.0.0.1:56013
+1549604925948	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.J2JhStrDuhEo
+1549604925952	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549604925957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56022
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549604950416 Marionette: Element does not have an accessible object -> id: , tagName: I, className: icon iconfont
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549605048074	geckodriver	INFO	Listening on 127.0.0.1:56505
+1549605049076	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.jFA1wqgmqE3q
+1549605049080	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549605049086	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56512
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549605297959	geckodriver	INFO	Listening on 127.0.0.1:57246
+1549605298973	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.Rah0U9NriV1U
+1549605298978	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549605298985	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57253
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549605315308 Marionette: Element does not support any accessible actions -> id: itemSearchResultCon_38968272401, tagName: DIV, className: itemBox
+1549605687833	geckodriver	INFO	Listening on 127.0.0.1:57756
+1549605688847	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.OrZ7BNVq3Owe
+1549605688852	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549605688859	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57763
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549605761310	geckodriver	INFO	Listening on 127.0.0.1:58278
+1549605762321	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.U3oBu988A2m7
+1549605762328	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549605762337	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58285
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549605785385 Marionette: Element does not support any accessible actions -> id: itemSearchResultCon_38968272401, tagName: DIV, className: itemBox
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549605843864	geckodriver	INFO	Listening on 127.0.0.1:58896
+1549605844874	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.mLbcXoo7IweB
+1549605844879	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549605844888	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58903
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549605871221 Marionette: Element does not support any accessible actions -> id: itemSearchResultCon_38968272401, tagName: DIV, className: itemBox
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://itemapi.yhd.com/followProduct.do?callback=jQuery111306613277238640749_1549605874627&params.skuId=38968272401&method=get&_=1549605874628, line 1: TypeError: jQuery111306613277238640749_1549605874627 is not a function
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549606015200	geckodriver	INFO	Listening on 127.0.0.1:59574
+1549606016211	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.LQoZ7G01p9sd
+1549606016216	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549606016223	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59581
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549606038770 Marionette: Element does not support any accessible actions -> id: itemSearchResultCon_38968272401, tagName: DIV, className: itemBox
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549606078563	geckodriver	INFO	Listening on 127.0.0.1:60321
+1549606079574	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.qQs6taxnRnxS
+1549606079579	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549606079586	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60328
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549606095788 Marionette: Element does not support any accessible actions -> id: itemSearchResultCon_38968272401, tagName: DIV, className: itemBox
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549606799126	geckodriver	INFO	Listening on 127.0.0.1:61383
+1549606800135	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.Qi8zmtSkIYzy
+1549606800141	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549606800151	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61390
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549607254435	geckodriver	INFO	Listening on 127.0.0.1:61974
+1549607255448	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.qfIipdZdVQUB
+1549607255453	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549607255463	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61981
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549607370635	geckodriver	INFO	Listening on 127.0.0.1:62519
+1549607371650	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.6FNXjmbD4em3
+1549607371657	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549607371666	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62526
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549607418358	geckodriver	INFO	Listening on 127.0.0.1:63055
+1549607419367	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.iGwNIoI3K8DJ
+1549607419370	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549607419375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63062
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549607769501	geckodriver	INFO	Listening on 127.0.0.1:63777
+1549607770514	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.yRuyKVNUaAXn
+1549607770519	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549607770525	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63784
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+1549608037025	geckodriver	INFO	Listening on 127.0.0.1:64503
+1549608038032	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.X7HthOiCmtz1
+1549608038035	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549608038041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64510
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549608195082	geckodriver	INFO	Listening on 127.0.0.1:65173
+1549608196091	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.8AVPvxaWXRB7
+1549608196097	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549608196106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65180
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://search.yhd.com/c0-0/k%25E8%25B6%25B3%25E7%2590%2583%25E9%259E%258B/, line 1: ReferenceError: log is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549608279067	geckodriver	INFO	Listening on 127.0.0.1:49505
+1549608280071	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.1kSfurrK8BTG
+1549608280074	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549608280079	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49512
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549608450103	geckodriver	INFO	Listening on 127.0.0.1:50290
+1549608451116	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.BDuokmmOMXhe
+1549608451121	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549608451130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50297
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549608912009	geckodriver	INFO	Listening on 127.0.0.1:51308
+1549608913025	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.PG0GeSYzGQzy
+1549608913031	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549608913037	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51315
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549608992197	geckodriver	INFO	Listening on 127.0.0.1:51511
+1549608993210	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.ttY3oSi59VGs
+1549608993213	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549608993218	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51518
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1549608994775	addons.productaddons	WARN	File download failed: 0x80004004
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609019725	geckodriver	INFO	Listening on 127.0.0.1:51794
+1549609020744	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.AktfAlVGkHZg
+1549609020746	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609020752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51801
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609121662	geckodriver	INFO	Listening on 127.0.0.1:52122
+1549609122673	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.y8Kv8l7ZLfSc
+1549609122678	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609122686	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52129
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609161634	geckodriver	INFO	Listening on 127.0.0.1:52416
+1549609162645	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.dTHtXAGvFc5r
+1549609162650	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609162660	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52424
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609199691	addons.productaddons	WARN	File download failed: 0x80004004
+1549609205277	geckodriver	INFO	Listening on 127.0.0.1:52640
+1549609206292	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.29Yc09kZBEIS
+1549609206296	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609206303	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52647
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609334006	geckodriver	INFO	Listening on 127.0.0.1:53069
+1549609335019	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.1ArBcVMs8Zdm
+1549609335022	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609335027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53076
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609375282	geckodriver	INFO	Listening on 127.0.0.1:53257
+1549609376294	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.9EBL1gTNB2DZ
+1549609376300	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609376310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53264
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609621011	geckodriver	INFO	Listening on 127.0.0.1:53902
+1549609622023	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.296urz2rJU56
+1549609622028	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609622035	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53909
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://itemapi.yhd.com/followProduct.do?callback=jQuery111305184057369007442_1549609644641&params.skuId=38968272401&method=get&_=1549609644642, line 1: TypeError: jQuery111305184057369007442_1549609644641 is not a function
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609690047	geckodriver	INFO	Listening on 127.0.0.1:54526
+1549609691062	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.LWETIwjpoEHC
+1549609691068	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609691075	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54533
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://cart.yhd.com/cart/opt/getCartCount.do?callback=jsonp1549609716612&_=1549609716176, line 1: TypeError: jsonp1549609716612 is not a function
+JavaScript error: http://itemapi.yhd.com/followProduct.do?callback=jQuery111309628403023715626_1549609721868&params.skuId=38968272401&method=get&_=1549609721869, line 1: TypeError: jQuery111309628403023715626_1549609721868 is not a function
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609751173	geckodriver	INFO	Listening on 127.0.0.1:55239
+1549609752184	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.BZbSHvfy8WRt
+1549609752189	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609752197	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55246
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://search.yhd.com/c0-0/k%25E8%25B6%25B3%25E7%2590%2583%25E9%259E%258B/, line 1: ReferenceError: log is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://cart.yhd.com/cart/opt/getCartCount.do?callback=jsonp1549609783750&_=1549609783548, line 1: TypeError: jsonp1549609783750 is not a function
+JavaScript error: http://itemapi.yhd.com/followProduct.do?callback=jQuery1113031176052727839665_1549609788313&params.skuId=38968272401&method=get&_=1549609788314, line 1: TypeError: jQuery1113031176052727839665_1549609788313 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549609975550	geckodriver	INFO	Listening on 127.0.0.1:55963
+1549609976561	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.0O6dXxOItQCM
+1549609976565	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549609976572	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55970
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549609982535, line 1: TypeError: jsonp is not a function
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+JavaScript error: http://cart.yhd.com/cart/opt/getCartCount.do?callback=jsonp1549610005959&_=1549610005846, line 1: TypeError: jsonp1549610005959 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+JavaScript error: http://itemapi.yhd.com/followProduct.do?callback=jQuery1113019773162605792738_1549610012218&params.skuId=38968272401&method=get&_=1549610012219, line 1: TypeError: jQuery1113019773162605792738_1549610012218 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549610138953	geckodriver	INFO	Listening on 127.0.0.1:56597
+1549610139972	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.3IMZ6UAX7i9H
+1549610139976	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549610139982	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56604
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549610143263, line 1: TypeError: jsonp is not a function
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+1549610191674	geckodriver	INFO	Listening on 127.0.0.1:57221
+1549610192691	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.clYpbpXaFirz
+1549610192697	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549610192704	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57228
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549610196977, line 1: TypeError: jsonp is not a function
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://cart.yhd.com/cart/opt/getCartCount.do?callback=jsonp1549610213486&_=1549610213315, line 1: TypeError: jsonp1549610213486 is not a function
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+JavaScript error: http://itemapi.yhd.com/followProduct.do?callback=jQuery111305574854922943078_1549610219614&params.skuId=38968272401&method=get&_=1549610219615, line 1: TypeError: jQuery111305574854922943078_1549610219614 is not a function
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549611451858	geckodriver	INFO	Listening on 127.0.0.1:58473
+1549611452872	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.H2k1BFCNilmP
+1549611452878	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549611452888	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58480
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549611477153 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549611584476	geckodriver	INFO	Listening on 127.0.0.1:58981
+1549611585491	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.eUExGoTMtrEM
+1549611585497	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549611585503	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58988
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549611610638 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549620784178	geckodriver	INFO	Listening on 127.0.0.1:62594
+1549620785185	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.nUEw5WaEVHUa
+1549620785190	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549620785198	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62601
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549620802084 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549620938146	geckodriver	INFO	Listening on 127.0.0.1:63057
+1549620939156	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.QaXtEtPI2fV4
+1549620939161	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549620939169	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63064
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549620955524 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549621180620	geckodriver	INFO	Listening on 127.0.0.1:63463
+1549621181626	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.xCDrq4jIT2ja
+1549621181629	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549621181634	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63470
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549621198059 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549621635781	geckodriver	INFO	Listening on 127.0.0.1:64243
+1549621636795	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.klTWAPjZ84sV
+1549621636800	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549621636808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64250
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549621653712 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549621764261	geckodriver	INFO	Listening on 127.0.0.1:64641
+1549621765269	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.MjU9VEhoVI0c
+1549621765274	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549621765281	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64648
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549621781751 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+1549621868234	geckodriver	INFO	Listening on 127.0.0.1:64903
+1549621869243	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.INeTOKxb66iz
+1549621869246	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549621869251	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64910
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549621886397 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549621987271	geckodriver	INFO	Listening on 127.0.0.1:65307
+1549621988284	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.fOTGKTpuMdv6
+1549621988287	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549621988293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65314
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549622005075 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549622074794	geckodriver	INFO	Listening on 127.0.0.1:49326
+1549622075805	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.Zf5uTmUnFQz6
+1549622075810	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549622075817	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49333
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549622095125 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549622167919	geckodriver	INFO	Listening on 127.0.0.1:49721
+1549622168927	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.q4mIDCyeSwe4
+1549622168933	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549622168942	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49728
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549622186226 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+1549622299213	geckodriver	INFO	Listening on 127.0.0.1:50224
+1549622300220	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.ubZZRrNHldmm
+1549622300223	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549622300229	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50231
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549622317608 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549622400124	geckodriver	INFO	Listening on 127.0.0.1:50578
+1549622401137	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.H8B76qexwi2d
+1549622401140	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549622401145	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50585
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549622417253 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549623065042	geckodriver	INFO	Listening on 127.0.0.1:51317
+1549623066052	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.KIQJtN5anF0L
+1549623066057	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549623066064	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51324
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549623083594 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549632465564	geckodriver	INFO	Listening on 127.0.0.1:62892
+1549632466574	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.9zQgTr6qDFco
+1549632466577	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549632466584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62899
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549632492559 Marionette: Element is missing an accesible name -> id: pdlink1_100000177760, tagName: A, className: img
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549632825860	geckodriver	INFO	Listening on 127.0.0.1:63334
+1549632826863	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.iUu6QdqwBIQY
+1549632826865	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549632826871	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63341
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549632862788	geckodriver	INFO	Listening on 127.0.0.1:63507
+1549632863803	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.neF9lfrBmdB2
+1549632863809	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549632863819	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63515
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: https://h5.360buyimg.com/ws_js/jdwebm.js?v=business_name, line 1: ReferenceError: eC is not defined
+JavaScript error: https://img.yihaodianimg.com/cart/global/js/global_simple_top.js?7d524a4, line 248: ReferenceError: c is not defined
+1549632948310	addons.productaddons	WARN	File download failed: 0x80004004
+1549632951431	geckodriver	INFO	Listening on 127.0.0.1:63802
+1549632952442	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.mQOsSwMxEND1
+1549632952449	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549632952456	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63809
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549633138579	geckodriver	INFO	Listening on 127.0.0.1:64010
+1549633139595	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.9fexetuFjJfP
+1549633139600	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549633139605	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64017
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/markupview/markup-view.js, line 1867: TypeError: this.node.tagName is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/markupview/markup-view.js, line 1867: TypeError: this.node.tagName is null
+1549633320539	geckodriver	INFO	Listening on 127.0.0.1:64216
+1549633321552	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.UpXJUBedV9Oa
+1549633321557	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549633321566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64223
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549633678120	geckodriver	INFO	Listening on 127.0.0.1:64484
+1549633679134	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.xs7mE7xj8bAD
+1549633679139	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549633679146	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64491
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+Handler function threw an exception: TypeError: threadActor is null
+Stack: TabActor.prototype._windowReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1684:1
+TabActor.prototype._changeTopLevelDocument/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js:1621:7
+makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:87:14
+Line: 1684, column: 1
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1549633780170	geckodriver	INFO	Listening on 127.0.0.1:64674
+1549633781178	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.DzxiCo6bDFJB
+1549633781183	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549633781190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64681
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function
+1549634099529	geckodriver	INFO	Listening on 127.0.0.1:64975
+1549634100538	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.wjrmfADKAzDP
+1549634100541	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549634100546	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64982
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549686740273	geckodriver	INFO	Listening on 127.0.0.1:65317
+1549686741285	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.uqL6zeNYTlUW
+1549686741289	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549686741295	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65324
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://marionette/content/listener.js, line 1278: TypeError: can't access dead object
+1549686831995	geckodriver	INFO	Listening on 127.0.0.1:65480
+1549686833005	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.DHcKG9fIcFv6
+1549686833010	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549686833017	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65487
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://marionette/content/listener.js, line 1278: TypeError: can't access dead object
+1549686968697	geckodriver	INFO	Listening on 127.0.0.1:49356
+1549686969710	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.a12wb95ynWNe
+1549686969715	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549686969722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49363
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1549688940908	geckodriver	INFO	Listening on 127.0.0.1:51731
+1549688941917	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.rku619YN8IyT
+1549688941921	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549688941928	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51738
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549688978370	geckodriver	INFO	Listening on 127.0.0.1:51916
+1549688979384	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.NWp5vKLqFzX9
+1549688979387	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549688979394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51923
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+1549689001367	geckodriver	INFO	Listening on 127.0.0.1:52196
+1549689002381	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.JUuEBis0C8Zw
+1549689002386	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549689002393	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52203
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549689047469	geckodriver	INFO	Listening on 127.0.0.1:52374
+1549689048484	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.O7Zdo8fDNmBc
+1549689048489	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549689048495	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52381
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549689075142	addons.productaddons	WARN	File download failed: 0x80004004
+1549689083717	geckodriver	INFO	Listening on 127.0.0.1:52559
+1549689084725	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.sDr2JmD6wdSw
+1549689084731	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549689084739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52567
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+1549689106036	geckodriver	INFO	Listening on 127.0.0.1:52736
+1549689107046	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.86XPOvBWaXTe
+1549689107050	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549689107056	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52745
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+1549689855801	geckodriver	INFO	Listening on 127.0.0.1:53826
+1549689856816	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.EMap5VnHwCiU
+1549689856821	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549689856832	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53833
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+Marionette threw an error: SyntaxError: The expression is not a legal expression.
+EM_findByXPath@chrome://marionette/content/elements.js:591:12
+EM_findElement@chrome://marionette/content/elements.js:655:19
+EM_find@chrome://marionette/content/elements.js:532:23
+findElementContent/<@chrome://marionette/content/listener.js:1419:1
+findElementContent@chrome://marionette/content/listener.js:1418:1
+dispatch/</req<@chrome://marionette/content/listener.js:174:22
+TaskImpl_run@resource://gre/modules/Task.jsm:315:40
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+dispatch/<@chrome://marionette/content/listener.js:170:15
+
+1549689902042	geckodriver	INFO	Listening on 127.0.0.1:53994
+1549689903055	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.xRMgKGC02uOW
+1549689903058	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549689903066	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54001
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+Marionette threw an error: SyntaxError: The expression is not a legal expression.
+EM_findByXPath@chrome://marionette/content/elements.js:591:12
+EM_findElement@chrome://marionette/content/elements.js:655:19
+EM_find@chrome://marionette/content/elements.js:532:23
+findElementContent/<@chrome://marionette/content/listener.js:1419:1
+findElementContent@chrome://marionette/content/listener.js:1418:1
+dispatch/</req<@chrome://marionette/content/listener.js:174:22
+TaskImpl_run@resource://gre/modules/Task.jsm:315:40
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+dispatch/<@chrome://marionette/content/listener.js:170:15
+
+1549689960970	geckodriver	INFO	Listening on 127.0.0.1:54179
+1549689961983	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.yDXKWIw1bmsS
+1549689961986	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549689961991	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54186
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+Marionette threw an error: SyntaxError: The expression is not a legal expression.
+EM_findByXPath@chrome://marionette/content/elements.js:591:12
+EM_findElement@chrome://marionette/content/elements.js:655:19
+EM_find@chrome://marionette/content/elements.js:532:23
+findElementContent/<@chrome://marionette/content/listener.js:1419:1
+findElementContent@chrome://marionette/content/listener.js:1418:1
+dispatch/</req<@chrome://marionette/content/listener.js:174:22
+TaskImpl_run@resource://gre/modules/Task.jsm:315:40
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+dispatch/<@chrome://marionette/content/listener.js:170:15
+
+1549690020498	geckodriver	INFO	Listening on 127.0.0.1:54338
+1549690021513	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.v4qRQmGqFfBj
+1549690021515	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690021524	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54345
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549690113705	geckodriver	INFO	Listening on 127.0.0.1:54543
+1549690114713	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.DnHOkiktY54D
+1549690114715	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690114721	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54550
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549690141448 Marionette: Element does not support any accessible actions -> id: new_person_channel, tagName: DIV, className: con_width new_person
+JavaScript error: http://h5.360buyimg.com/ws_js/jdwebm.js?v=business_name, line 1: ReferenceError: eC is not defined
+JavaScript error: http://img.yihaodianimg.com/caroline/global/js/global_base_top.js?1.0, line 254: ReferenceError: j is not defined
+1549690271871	geckodriver	INFO	Listening on 127.0.0.1:54795
+1549690272885	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.faLVttX1avgi
+1549690272890	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690272896	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54802
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549690368389	geckodriver	INFO	Listening on 127.0.0.1:55189
+1549690369407	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.Ds6N8c0CDhCf
+1549690369415	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690369425	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55196
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-detail/global/js/global_base2_top.js?6bd34b9, line 246: ReferenceError: j is not defined
+JavaScript error: http://img.yihaodianimg.com/front-detail/detail/js/productDetail.js?6bd34b9, line 39: IndexSizeError: Index or size is negative or greater than the allowed amount
+1549690421525	geckodriver	INFO	Listening on 127.0.0.1:55465
+1549690422538	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.JhIMP8HiIFeb
+1549690422543	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690422549	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55472
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549690527272	geckodriver	INFO	Listening on 127.0.0.1:55840
+1549690528287	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.GkrliNScI8XD
+1549690528290	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690528296	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55849
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549690568317	geckodriver	INFO	Listening on 127.0.0.1:56074
+1549690569331	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.z3l1aJ4R0edM
+1549690569336	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690569344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56081
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/markupview/markup-view.js, line 417: TypeError: parent is null
+1549690871188	geckodriver	INFO	Listening on 127.0.0.1:56577
+1549690872204	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.uSZ9buowxT3o
+1549690872209	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549690872217	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56584
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1549691851041	geckodriver	INFO	Listening on 127.0.0.1:50916
+1549691852052	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.U8uvMESNPvVU
+1549691852057	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549691852065	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50923
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1549691880998	geckodriver	INFO	Listening on 127.0.0.1:50958
+1549691882007	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.yiBP4YIJChiH
+1549691882009	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549691882015	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50971
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549691890262, line 1: TypeError: jsonp is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 3999: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1549694108086	geckodriver	INFO	Listening on 127.0.0.1:57750
+1549694109100	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.IgqkIS2rRKcM
+1549694109106	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549694109116	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57757
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://search.yhd.com/hotWord.do?rtnNum=10&provinceId=1&cityId=0&callback=keywordRecommendCallback, line 1: TypeError: keywordRecommendCallback is not a function
+JavaScript error: http://search.yhd.com/searchWords/tgetUserWords-v1?callback=jQuery111306202145528654204_1549694120235, line 1: TypeError: jQuery111306202145528654204_1549694120235 is not a function
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549694120232, line 1: TypeError: jsonp is not a function
+1549694692317	geckodriver	INFO	Listening on 127.0.0.1:58307
+1549694693326	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.NZ4jCNiwnQbO
+1549694693329	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549694693336	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58314
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549694702989, line 1: TypeError: jsonp is not a function
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1549694775987	geckodriver	INFO	Listening on 127.0.0.1:58493
+1549694777001	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.puRnoFZClpXW
+1549694777009	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549694777019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58502
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1549694781290	addons.productaddons	WARN	File download failed: 0x80004004
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://search.yhd.com/searchWords/tgetUserWords-v1?callback=jQuery1113010682099001434198_1549694805057, line 1: TypeError: jQuery1113010682099001434198_1549694805057 is not a function
+JavaScript error: http://search.yhd.com/hotWord.do?rtnNum=10&provinceId=1&cityId=0&callback=keywordRecommendCallback, line 1: TypeError: keywordRecommendCallback is not a function
+JavaScript error: http://m.yhd.com/mobile/homePage/getYhdNewUserInfo.do?callback=jsonp&_=1549694805058, line 1: TypeError: jsonp is not a function
+1549695868590	geckodriver	INFO	Listening on 127.0.0.1:59837
+1549695869603	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.PfWnoaUcAlND
+1549695869610	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549695869620	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59844
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549696230382	geckodriver	INFO	Listening on 127.0.0.1:60174
+1549696231390	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.pgxklJRJmBPV
+1549696231393	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549696231399	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60181
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549698503154	geckodriver	INFO	Listening on 127.0.0.1:60777
+1549698504167	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.XVKPD31yVIPr
+1549698504172	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698504181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60784
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549698643820	geckodriver	INFO	Listening on 127.0.0.1:60993
+1549698644825	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.11aGGhIBSg4Z
+1549698644827	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698644833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61000
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549698719347	geckodriver	INFO	Listening on 127.0.0.1:61191
+1549698720360	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.ZBw1igQLZDIb
+1549698720366	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698720374	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61198
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549698774964	geckodriver	INFO	Listening on 127.0.0.1:61360
+1549698775978	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.yhdDOWV9MoZU
+1549698775983	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698775990	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61367
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549698794677	geckodriver	INFO	Listening on 127.0.0.1:61519
+1549698795687	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.Is7g4uLhRk0E
+1549698795693	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698795706	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61526
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1549698820632	geckodriver	INFO	Listening on 127.0.0.1:61559
+1549698821648	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.ryiNHEscygb4
+1549698821654	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698821666	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61566
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+Marionette threw an error: SyntaxError: The expression is not a legal expression.
+EM_findByXPath@chrome://marionette/content/elements.js:591:12
+EM_findElement@chrome://marionette/content/elements.js:655:19
+EM_find@chrome://marionette/content/elements.js:532:23
+findElementContent/<@chrome://marionette/content/listener.js:1419:1
+findElementContent@chrome://marionette/content/listener.js:1418:1
+dispatch/</req<@chrome://marionette/content/listener.js:174:22
+TaskImpl_run@resource://gre/modules/Task.jsm:315:40
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+dispatch/<@chrome://marionette/content/listener.js:170:15
+
+1549698867868	geckodriver	INFO	Listening on 127.0.0.1:61727
+1549698868878	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.lcT3Tafcnkyc
+1549698868880	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698868886	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61734
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549698886175 Marionette: Element does not support any accessible actions -> id: , tagName: DIV, className: category-title category-title_global
+Marionette threw an error: SyntaxError: The expression is not a legal expression.
+EM_findByXPath@chrome://marionette/content/elements.js:591:12
+EM_findElement@chrome://marionette/content/elements.js:655:19
+EM_find@chrome://marionette/content/elements.js:532:23
+findElementContent/<@chrome://marionette/content/listener.js:1419:1
+findElementContent@chrome://marionette/content/listener.js:1418:1
+dispatch/</req<@chrome://marionette/content/listener.js:174:22
+TaskImpl_run@resource://gre/modules/Task.jsm:315:40
+TaskImpl@resource://gre/modules/Task.jsm:276:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:250:14
+Task_spawn@resource://gre/modules/Task.jsm:164:12
+dispatch/<@chrome://marionette/content/listener.js:170:15
+
+1549698952888	geckodriver	INFO	Listening on 127.0.0.1:61915
+1549698953903	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.dwbi78kp56JH
+1549698953908	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549698953914	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61922
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549699060269	geckodriver	INFO	Listening on 127.0.0.1:62213
+1549699061283	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.JzezaOjA2uSW
+1549699061285	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549699061291	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62220
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549699081933 Marionette: Element does not have an accessible object -> id: , tagName: I, className: icon icon-menu iconfont
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549700426183	geckodriver	INFO	Listening on 127.0.0.1:62692
+1549700427197	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.5K8Ki7Jj5q2S
+1549700427202	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549700427211	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62699
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549700473736	geckodriver	INFO	Listening on 127.0.0.1:62895
+1549700474749	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.uE8ZMOQeLjzA
+1549700474756	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549700474767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62902
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549700525798	geckodriver	INFO	Listening on 127.0.0.1:63100
+1549700526808	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.hsRdmmrAkP0z
+1549700526813	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549700526820	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63107
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549700573185	geckodriver	INFO	Listening on 127.0.0.1:63300
+1549700574195	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.kll8SJAVbkYm
+1549700574198	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549700574203	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63307
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549701180487	geckodriver	INFO	Listening on 127.0.0.1:63648
+1549701181499	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.Bx9KDpxRuNip
+1549701181505	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549701181511	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63655
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549701263409	geckodriver	INFO	Listening on 127.0.0.1:63858
+1549701264425	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.SD8x23cpcMOq
+1549701264430	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549701264443	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63865
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+JavaScript error: http://img.yihaodianimg.com/front-homepage/global/js/global_index2_top.js?3fd0293, line 261: ReferenceError: c is not defined
+1549769701723	geckodriver	INFO	Listening on 127.0.0.1:51907
+1549769702720	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.IyyhQAXwHrLl
+1549769702741	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549769702752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51914
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.yhd.com/front-passport/passport/js/framework/common_yhd.js, line 6: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1549769768494	addons.productaddons	WARN	File download failed: 0x80004004
+1549769770705	geckodriver	INFO	Listening on 127.0.0.1:52074
+1549769771720	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.BACTLjiqT5qz
+1549769771726	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549769771733	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52081
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.yhd.com/front-passport/passport/js/framework/common_yhd.js, line 6: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1549769940796	geckodriver	INFO	Listening on 127.0.0.1:52242
+1549769941809	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.ZpMILICck9jG
+1549769941815	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549769941821	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52249
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.yhd.com/front-passport/passport/js/framework/common_yhd.js, line 6: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1549770144809	geckodriver	INFO	Listening on 127.0.0.1:52355
+1549770145820	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.cZHSIMsjzrKJ
+1549770145825	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549770145832	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52362
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.yhd.com/front-passport/passport/js/framework/common_yhd.js, line 6: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1549770196168	geckodriver	INFO	Listening on 127.0.0.1:52450
+1549770197175	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.NUZtJeUCwykz
+1549770197177	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549770197183	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52457
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.yhd.com/front-passport/passport/js/framework/common_yhd.js, line 6: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.animationsActor23
+1549770243664	geckodriver	INFO	Listening on 127.0.0.1:52543
+1549770244683	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.kno16MVEmp1I
+1549770244686	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549770244691	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52550
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.yhd.com/front-passport/passport/js/framework/common_yhd.js, line 6: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1549771065625	geckodriver	INFO	Listening on 127.0.0.1:53740
+1549771066640	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.Kzdnm75UG1OO
+1549771066645	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549771066651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53747
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+1549771377539	geckodriver	INFO	Listening on 127.0.0.1:54870
+1549771378552	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.3i02sWyidbJ9
+1549771378557	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549771378566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54877
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1549771388658	geckodriver	INFO	Listening on 127.0.0.1:54898
+1549771389670	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.lqyypx8ZeZSw
+1549771389675	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1549771389682	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54905
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://img.yihaodianimg.com/yhdsearch_pc/search3/js/search_shop.js?3c6f9a9, line 221: unreachable code after return statement
+JavaScript error: http://img.yihaodianimg.com/yhdsearch_pc/global/js/global_base2_top.js?3c6f9a9, line 246: ReferenceError: j is not defined
+JavaScript error: http://cart.yhd.com/cart/opt/getCartCount.do?callback=jsonp1549771398965&_=1549771398835, line 1: TypeError: jsonp1549771398965 is not a function
+JavaScript error: http://www.yhd.com/homepage/getAllCity.do?callback=jsonp_getAllCity1, line 1: TypeError: jsonp_getAllCity1 is not a function

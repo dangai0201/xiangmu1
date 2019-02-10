@@ -1,0 +1,6 @@
+1548224858075	geckodriver	INFO	Listening on 127.0.0.1:50977
+1548224859090	mozprofile::profile	INFO	Using profile path /var/folders/cn/4n3ddv5j6hdc3dxlspl3_zl80000gn/T/rust_mozprofile.667I5pCiJizR
+1548224859095	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1548224859102	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50988
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://passport.jd.com/new/misc/js/common_login_v20180829.js, line 1: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
